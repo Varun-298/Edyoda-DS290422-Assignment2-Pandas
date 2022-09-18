@@ -1,0 +1,2 @@
+# Summarize only the occupation column
+users.occupation.value_counts()
