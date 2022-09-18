@@ -1,0 +1,2 @@
+# Describe all the columns
+users.describe(include='all')
