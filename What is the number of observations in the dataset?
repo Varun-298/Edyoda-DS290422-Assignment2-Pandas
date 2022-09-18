@@ -1,0 +1,2 @@
+# What is the number of observations in the dataset?
+len(users)
