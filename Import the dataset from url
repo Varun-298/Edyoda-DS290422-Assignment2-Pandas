@@ -1,0 +1,2 @@
+users = pd.read_csv('https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user',index_col=0)
+users.head(943)
